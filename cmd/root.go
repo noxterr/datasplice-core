@@ -6,6 +6,13 @@ import (
 	"github.com/spf13/cobra"
 )
 
+const (
+	// Name of the files required
+	// for a datasplice run.
+	MainFile      = "main.yaml"
+	VariablesFile = "variables.yaml"
+)
+
 var rootCmd = &cobra.Command{
 	Use:   "datasplice",
 	Short: "Ingest, transform and export data via a YAML-defined flow",
