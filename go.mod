@@ -1,4 +1,4 @@
-module github.com/dalfrom/datasplice
+module github.com/datasplice-labs/datasplice
 
 go 1.26.1
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/dalfrom/datasplice/cmd"
+	"github.com/datasplice-labs/datasplice/cmd"
 )
 
 func main() {

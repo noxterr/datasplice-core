@@ -3,8 +3,8 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/dalfrom/datasplice/internal/config"
-	"github.com/dalfrom/datasplice/internal/pipeline"
+	"github.com/datasplice-labs/datasplice/internal/config"
+	"github.com/datasplice-labs/datasplice/internal/pipeline"
 	"github.com/spf13/cobra"
 )
 

@@ -14,7 +14,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/dalfrom/datasplice/internal/config"
+	"github.com/datasplice-labs/datasplice/internal/config"
 )
 
 // Row mirrors the Row message in docs/proto/datasplice.proto — same shape
